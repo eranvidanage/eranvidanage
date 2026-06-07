@@ -60,6 +60,9 @@ Passionate about ethical hacking, Java, and building aesthetic digital experienc
 
 ### Portfolio Website
 Minimal responsive portfolio with modern animations and UI.
+<a href="
+<img src="https://img.shields.io/badge/Website-0f0f0f?style=for-the-badge&logo=webpage&logoColor=white"/>
+</a>
 
 <br><br>
 
