@@ -34,14 +34,11 @@ Passionate about ethical hacking, Java, and building aesthetic digital experienc
 
 <br><br>
 
-<!-- 
 
 <div align="center">
-  
+<!-- 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eranvidanage&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranvidanage&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
-
 -->
 
 </div>
@@ -59,9 +56,9 @@ Passionate about ethical hacking, Java, and building aesthetic digital experienc
 # Featured Work
 
 ### Portfolio Website
-Minimal responsive portfolio with modern animations and UI.
-<a href="
-<img src="https://img.shields.io/badge/Website-0f0f0f?style=for-the-badge&logo=webpage&logoColor=white"/>
+Minimal responsive portfolio with modern animations and UI.<br>
+<a href="https://eranvidanage.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/Website-0f0f0f?style=for-the-badge&logo=googleearth&logoColor=white"/>
 </a>
 
 <br><br>
@@ -75,20 +72,32 @@ Minimal responsive portfolio with modern animations and UI.
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,flutter,mysql,firebase,git,github,vscode&theme=dark" />
 
 </div>
+<br><br>
+
+Social Profiles
+
+<a href="https://instagram.com/rabbitaa.x">
+<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://facebook.com/rabbitaa.x">
+<img src="https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
 
 <br><br>
 
 <div align="center">
 
+Contact <br>
+
 <a href="https://github.com/eranvidanage">
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/eranvidanage">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:vidanagealoka4@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
