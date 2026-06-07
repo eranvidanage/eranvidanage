@@ -69,7 +69,7 @@ Minimal responsive portfolio with modern animations and UI.<br>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,flutter,mysql,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,java,python,github,vscode,terminal&theme=dark" />
 
 </div>
 <br><br>
