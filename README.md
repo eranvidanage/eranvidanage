@@ -20,7 +20,7 @@
 <a href="https://instagram.com/rabbitaa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabbitaa.x" height="30" width="40" /></a>
 <a href="https://fb.com/rabbitaa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabbitaa.x" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/11550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="11550" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/BsDrG78FA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BsDrG78FA" height="30" width="40" /></a>
+<a href="https://discord.gg/rabbitaa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rabbitaa.x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
