@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/eranvidanage/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://instagram.com" alt="LinkedIn" />
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/rabbitaa.x/" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
+    <img src="https://instagram.com" alt="Instagram" />
   </a>
   <!-- Facebook -->
   <a href="https://facebook.com/rabbitaa.x" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
+    <img src="https://facebook.com" alt="Facebook" />
   </a>
   <!-- Tiktok -->
   <a href="https://tiktok.com/rabbitaa.x" target="_blank">
-    <img src="https://shields.io" alt="X" />
+    <img src="https://tiktok.com" alt="Tiktok" />
   </a>
 </div>
