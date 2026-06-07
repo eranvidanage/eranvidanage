@@ -1,27 +1,102 @@
-<h1 align="center">Hi 👋, I'm Eran Aloka Vidanage</h1>
-<h3 align="center">A from Sri LankaCyber Security Undergraduate | IT Student at Victoria University (NSBM) | Learning Networking, Programming & Security</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Cybersecurity Portfolio Website](https://eranvidanage.github.io/portfolio-website/)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ERAN%20VIDANAGE&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-- 🌱 I’m currently learning **Cybersecurity**
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Undergraduate;IT+Student+at+Victoria+University;NSBM+Green+University" />
 
-- 🤝 I’m looking for help with **Advanced Cybersecurity Concepts**
+<br><br>
 
-- 👨‍💻 All of my projects are available at [https://eranvidanage.github.io/portfolio-website/](https://eranvidanage.github.io/portfolio-website/)
-
-- 📫 How to reach me **vidanagealoka4@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pfgTqoZgI0in_dkHJS3LAlv6HaMqYQ9n/view?usp=sharing](https://drive.google.com/file/d/1pfgTqoZgI0in_dkHJS3LAlv6HaMqYQ9n/view?usp=sharing)
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eranvidanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eranvidanage" height="30" width="40" /></a>
-<a href="https://instagram.com/rabbitaa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabbitaa.x" height="30" width="40" /></a>
-<a href="https://fb.com/rabbitaa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabbitaa.x" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/11550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="11550" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1346345073205317664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rabbitaa.x" height="30" width="40" /></a>
+<div class="btn-row">
+<p>
+<img src="https://img.shields.io/badge/HTML-0f0f0f?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-0f0f0f?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Programming-0f0f0f?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0f0f0f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<br>
+
+<div align="center">
+
+### About
+
+BCybersecurity student focused on secure systems, networking, and modern development.
+
+Passionate about ethical hacking, Java, and building aesthetic digital experiences.
+
+</div>
+
+<br><br>
+
+<!-- 
+
+<div align="center">
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eranvidanage&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranvidanage&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+
+-->
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="96%" src="https://streak-stats.demolab.com?user=eranvidanage&theme=black-ice&hide_border=true&background=00000000"/>
+
+</div>
+
+<br><br>
+
+# Featured Work
+
+### Portfolio Website
+Minimal responsive portfolio with modern animations and UI.
+
+<br><br>
+
+<div align="center">
+
+### Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,flutter,mysql,firebase,git,github,vscode&theme=dark" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<a href="https://github.com/eranvidanage">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```txt
+Design • Develop • Improve
+```
+
+</div>
